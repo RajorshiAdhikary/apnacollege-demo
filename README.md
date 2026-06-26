@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Auther - Rajorshi Adhikary
+Author - Rajorshi Adhikary (IIT Palakkad)
